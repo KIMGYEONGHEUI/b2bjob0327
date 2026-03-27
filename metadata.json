@@ -1,0 +1,8 @@
+{
+  "name": "B2B 전문가 매칭 플랫폼 — AI 기반 자동 매칭",
+  "description": "AI-powered B2B expert matching platform with real-time chat, multi-language support, and automated matching engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
